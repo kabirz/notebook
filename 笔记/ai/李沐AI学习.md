@@ -1,0 +1,1 @@
+[课程安排 - 动手学深度学习课程 (d2l.ai)](http://courses.d2l.ai/zh-v2/)

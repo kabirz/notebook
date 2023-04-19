@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df637b5e483c0543",
+            "id": "6247c401936ccc2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-04-03.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9377f0bdaa089b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian基本操作/obsidian快捷操作.md",
+                "file": "rust/收藏.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-04-03.md",
+                "file": "rust/收藏.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-04-03.md",
+                "file": "rust/收藏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-04-03.md"
+                "file": "rust/收藏.md"
               }
             }
           },
@@ -200,16 +187,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "df637b5e483c0543",
+  "active": "6247c401936ccc2b",
   "lastOpenFiles": [
-    "test.md",
-    "日记/2023-04-03.md",
-    "obsidian基本操作/obsidian快捷操作.md",
-    "2023-04-03.md",
-    "pic/t1.png",
-    "日记",
-    "obsidian基本操作",
-    "().md",
-    "pic"
+    "kernel/4. Linux cxl分析.md",
+    "kernel/收藏.md",
+    "rust/收藏.md",
+    "ai/opencv.md",
+    "rust",
+    "linux/未命名",
+    "ai/模型可视化.md",
+    "ai/线性代数.md",
+    "ai/pic/mm2.png",
+    "ai/pic/mm.png",
+    "ai/pic",
+    "ai/收藏.md",
+    "github/github项目收藏.md",
+    "ai/李沐AI学习.md",
+    "ai/BP神经网络.md",
+    "pytorch/中文教程.md",
+    "ai",
+    "pytorch/未命名.md",
+    "kernel/watchdog.md",
+    "pytorch",
+    "kernel/6. linux mtd.md",
+    "kernel/0. Linux设备驱动.md",
+    "kernel/3. Linux dma驱动分析.md",
+    "kernel/2. linux clk框架解析.md",
+    "kernel/1. linux char设备分析.md",
+    "linux/linux下硬件信息查看.md",
+    "kernel/5. linux spi.md",
+    "linux",
+    "python/setup.py.md",
+    "python",
+    "github",
+    "日记/2023-04-19.md",
+    "kernel/linux mailbox.md",
+    "whs/wbox.md",
+    "whs/pic/out_status.png",
+    "whs/pic/share_entry.png",
+    "whs/pic/delete_entry.png",
+    "whs/pic/add_entry.png",
+    "kernel/x86通过acpi注册硬件设备流程.md",
+    "tlb_command.md",
+    "whs/pic/tlb_command.png",
+    "whs/pic",
+    "whs",
+    "pic/t1.png"
   ]
 }
