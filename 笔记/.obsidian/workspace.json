@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "kernel/0. Linux设备驱动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43d5de74e3249443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "kernel/收藏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ca204a37e991902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/linux内核内存分配.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d285887db6acc33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/rootfs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kernel/收藏.md",
+                "file": "linux/rootfs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kernel/收藏.md",
+                "file": "linux/rootfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kernel/收藏.md"
+                "file": "linux/rootfs.md"
               }
             }
           },
@@ -200,8 +236,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "41301b35e379e94f",
+  "active": "d285887db6acc33c",
   "lastOpenFiles": [
+    "kernel/笔记1.md",
+    "kernel/7. linux clk.md",
+    "kernel/linux内核内存分配.md",
+    "kernel/收藏.md",
+    "kernel/树莓派.md",
+    "kernel/0. Linux设备驱动.md",
+    "tlb_command.md",
     "ai/收藏.md",
     "linux/linux下硬件信息查看.md",
     "ai/李沐AI学习.md",
@@ -215,13 +258,10 @@
     "kernel/3. Linux dma驱动分析.md",
     "kernel/2. linux clk框架解析.md",
     "kernel/1. linux char设备分析.md",
-    "kernel/0. Linux设备驱动.md",
     "linux/rootfs.md",
     "linux/yocto/收藏.md",
-    "tlb_command.md",
     "linux/yocto",
     "rust/收藏.md",
-    "kernel/收藏.md",
     "ai/opencv.md",
     "rust",
     "ai/模型可视化.md",
@@ -230,11 +270,7 @@
     "ai/pic/mm.png",
     "ai/pic",
     "github/github项目收藏.md",
-    "ai/BP神经网络.md",
-    "pytorch/中文教程.md",
     "ai",
-    "pytorch/未命名.md",
-    "kernel/watchdog.md",
     "pytorch",
     "linux",
     "python",
