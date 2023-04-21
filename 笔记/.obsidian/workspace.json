@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/rootfs.md",
-                "mode": "source",
+                "file": "rust/简单学习rust中文版.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,6 +88,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed4e5e9e6c2f74ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/rootfs.md",
+                "file": "rust/简单学习rust中文版.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/rootfs.md",
+                "file": "rust/简单学习rust中文版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/rootfs.md"
+                "file": "rust/简单学习rust中文版.md"
               }
             }
           },
@@ -186,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,19 +208,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a44b2e94c33e8db7",
+  "active": "6247c401936ccc2b",
   "lastOpenFiles": [
+    "rust/简单学习rust英文版.md",
+    "rust/简单学习rust中文版.md",
     "linux/linux下硬件信息查看.md",
-    "tlb_command.md",
+    "rust/README.md",
     "rust/收藏.md",
     "kernel/0. Linux设备驱动.md",
+    "linux/yocto/收藏.md",
+    "linux/rootfs.md",
+    "tlb_command.md",
     "kernel/收藏.md",
     "kernel/watchdog.md",
     "kernel/linux内核内存分配.md",
-    "linux/rootfs.md",
     "kernel/笔记1.md",
     "kernel/7. linux clk.md",
     "kernel/树莓派.md",
@@ -228,12 +241,8 @@
     "kernel/3. Linux dma驱动分析.md",
     "kernel/2. linux clk框架解析.md",
     "kernel/1. linux char设备分析.md",
-    "linux/yocto/收藏.md",
     "linux/yocto",
-    "ai/opencv.md",
     "rust",
-    "ai/模型可视化.md",
-    "ai/线性代数.md",
     "ai/pic/mm2.png",
     "ai/pic/mm.png",
     "ai/pic",
