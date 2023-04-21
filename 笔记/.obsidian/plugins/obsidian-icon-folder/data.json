@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💾",
+      "👨‍⚕️",
+      "🖼",
+      "FabAlgolia",
+      "FabRust"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "linux/rootfs.md": "💾",
+  "linux": "FabLinux",
+  "kernel": "💟",
+  "ai": "🛬",
+  "pytorch": "FabAlgolia",
+  "rust": "FabRust",
+  "python": "FabPython",
+  "pic": "🖼",
+  "数学": "👨‍⚕️"
+}
