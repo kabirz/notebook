@@ -1,0 +1,20 @@
+[iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more (github.com)](https://github.com/iovisor/bcc)[iovisor/bpftrace: High-level tracing language for Linux eBPF (github.com)](https://github.com/iovisor/bpftrace)
+[bpftrace 入门（1） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/470518327)
+[bpftrace 入门（2）语法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/560395651)
+[bpftrace 入门（3）probe 参数 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/560396087)
+[bpftrace 入门(4) 变量 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/562726230)
+[bpftrace 入门(5) 内置函数 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/566530853)
+[bpftrace 入门(6) 控制语句 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/569192343)
+[bpftrace实战--排查内存泄漏 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/573048135)
+[快速上手 eBPF - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/468879472)
+[初识 eBPF - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/468402448)
+[初识 eBPF - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/468402448)
+
+[eBPF学习记录（一）eBPF介绍_小坚学Linux的博客-CSDN博客](https://blog.csdn.net/sinat_22338935/article/details/123002910)
+[eBPF学习记录（二）使用bpftrace开发eBPF程序_小坚学Linux的博客-CSDN博客](https://blog.csdn.net/sinat_22338935/article/details/123005213)
+
+[eBPF系列学习（1）-什么是内核BPF、eBPF_bpf和ebpf_西京刀客的博客-CSDN博客](https://docker.blog.csdn.net/article/details/119872701)
+[eBPF系列学习（2）-eBPF工具BCC、bpftrace(文件相关操作跟踪点整理)\BCC和bpftrace 对比以及libbpf_bcc libbpf区别_西京刀客的博客-CSDN博客](https://docker.blog.csdn.net/article/details/119876593)
+[eBPF系列学习（3）-使用BCC开发eBPF程序\BCC bpf maps使用demo_bcc ebpf_西京刀客的博客-CSDN博客](https://docker.blog.csdn.net/article/details/125161494)[eBPF系列学习（4）了解libbpf、CO-RE (Compile Once – Run Everywhe） | 使用go开发ebpf程序（云原生利器cilium ebpf ）_西京刀客的博客-CSDN博客](https://docker.blog.csdn.net/article/details/125170099)
+
+[Linux内核跟踪eBPF：bpftrace一行教程_ebpftrace_rtoax的博客-CSDN博客](https://blog.csdn.net/Rong_Toa/article/details/115696444)

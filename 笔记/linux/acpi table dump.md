@@ -1,0 +1,3 @@
+
+![[acpi table.png]]
+
