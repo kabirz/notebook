@@ -73,19 +73,115 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/sklearn/菜菜的sklearn学习.md",
+                "file": "ai/模型可视化.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1a388d8fca8ba0d",
+            "id": "fecf23bcfc7d9a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/sklearn/求解多元一次方程组.md",
+                "file": "python/setup.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "727833220125c911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/0. Linux设备驱动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a58f040bdbf794ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c17eaab09df844a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/kset和kobject/kset_kobject.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c56c057f7bc5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/kset和kobject/kset_kobject.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b44018c489485df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/kset和kobject/kset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8557b0640640673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d29280cd8bdf59c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81407b4d1aa07355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/driver_base/base.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -202,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/sklearn/求解多元一次方程组.md",
+                "file": "kernel/driver_base/base.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/sklearn/求解多元一次方程组.md",
+                "file": "kernel/driver_base/base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/sklearn/求解多元一次方程组.md"
+                "file": "kernel/driver_base/base.md"
               }
             }
           },
@@ -299,8 +395,28 @@
   },
   "active": "0c6476447a0d5572",
   "lastOpenFiles": [
-    "ai/sklearn/菜菜的sklearn学习.md",
+    "kernel/driver_base/class.md",
+    "kernel/driver_base/base.md",
+    "kernel/driver_base/bus.md",
+    "kernel/driver_base/device.md",
+    "device.md",
+    "kernel/driver_base/kset和kobject/kset_kobject.md",
+    "kernel/driver_base/kset和kobject/kset.md",
+    "kernel/driver_base/kset和kobject/kobject_uevent.md",
+    "kernel/driver_base/kset和kobject/kobject.md",
+    "kernel/driver_base/kset和kobject",
+    "kernel/未命名.md",
+    "kernel/driver_base",
+    "kernel/0. Linux设备驱动.md",
+    "ai/线性代数.md",
+    "ai/pic/inv.png",
+    "ai/模型可视化.md",
     "ai/sklearn/求解多元一次方程组.md",
+    "python/pytest.md",
+    "python/setup.py.md",
+    "rust/rust中的位域库modular-bitfiled.md",
+    "ai/sklearn/菜菜的sklearn学习.md",
+    "ai/pic/model.png",
     "linux/linux 追踪工具之bpftrace.md",
     "dcie tool分析.md",
     "ai/sklearn/pic/shuji.png",
@@ -318,32 +434,12 @@
     "linux/pic/acpi_table.png",
     "linux/pic/debug_tool.png",
     "linux/libtracefs库源码分析.md",
-    "linux/pic/cxl-monitor.png",
     "linux/pic",
     "rust/简单学习rust中文版.md",
-    "rust/简单学习rust英文版.md",
-    "linux/linux下硬件信息查看.md",
-    "rust/README.md",
-    "rust/收藏.md",
-    "kernel/0. Linux设备驱动.md",
-    "linux/yocto/收藏.md",
-    "linux/rootfs.md",
-    "kernel/收藏.md",
-    "kernel/watchdog.md",
-    "kernel/linux内核内存分配.md",
-    "kernel/笔记1.md",
-    "kernel/7. linux clk.md",
-    "kernel/树莓派.md",
-    "ai/收藏.md",
-    "ai/李沐AI学习.md",
-    "数学/收藏.md",
     "数学",
     "linux/yocto",
     "rust",
-    "ai/pic/mm2.png",
     "ai/pic",
-    "ai",
-    "pytorch",
-    "linux"
+    "ai"
   ]
 }
