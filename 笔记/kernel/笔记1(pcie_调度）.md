@@ -6,7 +6,8 @@
 [ISP——ISP PIPELINE_海思pipeline_wtzhu_13的博客-CSDN博客](https://blog.csdn.net/wtzhu_13/article/details/118255864)
 [Linux启动过程初始化（十二）----watchdog初始化_嵌入式攻城狮小白的博客-CSDN博客](https://blog.csdn.net/qq_40788950/article/details/84845749)
 [Linux Watchdog 机制_ericstarmars的博客-CSDN博客](https://blog.csdn.net/ericstarmars/article/details/81750919)
-
+[强力科普一下PCIe/CXL（Compute Express Link）_大话存储的博客-CSDN博客](https://blog.csdn.net/TV8MbnO2Y2RfU/article/details/106184058)
+[《大话计算机》序言⑥ by 张勇 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzAwNzU3NzQ0MA%3D%3D&chksm=809b04b3b7ec8da573db1580f069e132d5e21d09248be63042b27710343eabc5e015bb31a765&idx=1&mid=2652090044&scene=21&sn=4f4dcfedceb7cb76df174a5d7826fd9f#wechat_redirect)
 
 
 

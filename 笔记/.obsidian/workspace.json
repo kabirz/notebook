@@ -169,38 +169,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kernel/driver_base/base.md",
+                "file": "kernel/driver_base/bus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81407b4d1aa07355",
+            "id": "a56b27d6a9d61882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kernel/driver_base/base.md",
+                "file": "kernel/driver_base/driver.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb745e5018c87a80",
+            "id": "2242ea0c1e39b87d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dcie tool分析.md",
+                "file": "linux/linux打印栈信息方法(backtrace).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9dca8d36e3f418b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/收藏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6a5d85bd79abe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通用传输协议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3d653e58d258ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel/gpio/gpio设备树的用法之gpiod.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -229,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cxl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,8 +313,17 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "ee58453cbe860c7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -298,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kernel/driver_base/base.md",
+                "file": "kernel/gpio/gpio设备树的用法之gpiod.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -315,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kernel/driver_base/base.md",
+                "file": "kernel/gpio/gpio设备树的用法之gpiod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -338,7 +383,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kernel/driver_base/base.md"
+                "file": "kernel/gpio/gpio设备树的用法之gpiod.md"
               }
             }
           },
@@ -393,53 +438,53 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0c6476447a0d5572",
+  "active": "d3d653e58d258ef3",
   "lastOpenFiles": [
-    "kernel/driver_base/class.md",
-    "kernel/driver_base/base.md",
-    "kernel/driver_base/bus.md",
+    "kernel/内核网络协议栈.md",
+    "kernel/linux内核专辑.md",
+    "kernel/4. Linux cxl分析.md",
+    "kernel/笔记1(pcie_调度）.md",
+    "linux/收藏.md",
+    "linux/yocto/收藏.md",
+    "kernel/pcie.md",
+    "linux/文件读写.md",
+    "通用传输协议.md",
+    "kernel/gpio/gpio设备树的用法之gpiod.md",
+    "kernel/gpio",
+    "kernel/cxl/收藏.md",
+    "kernel/收藏.md",
+    "linux/acpi table dump.md",
+    "kernel/driver_base/driver.md",
+    "kernel/driver_base/dd.md",
     "kernel/driver_base/device.md",
+    "kernel/driver_base/class.md",
+    "kernel/未命名 1.md",
+    "kernel/cxl",
+    "linux/rootfs.md",
+    "pytorch/中文教程.md",
+    "linux/linux C指定section方法.md",
+    "linux/linux打印栈信息方法(backtrace).md",
+    "kernel/driver_base/bus.md",
+    "kernel/driver_base/base.md",
     "device.md",
     "kernel/driver_base/kset和kobject/kset_kobject.md",
-    "kernel/driver_base/kset和kobject/kset.md",
-    "kernel/driver_base/kset和kobject/kobject_uevent.md",
-    "kernel/driver_base/kset和kobject/kobject.md",
     "kernel/driver_base/kset和kobject",
-    "kernel/未命名.md",
     "kernel/driver_base",
-    "kernel/0. Linux设备驱动.md",
-    "ai/线性代数.md",
     "ai/pic/inv.png",
-    "ai/模型可视化.md",
-    "ai/sklearn/求解多元一次方程组.md",
-    "python/pytest.md",
-    "python/setup.py.md",
-    "rust/rust中的位域库modular-bitfiled.md",
-    "ai/sklearn/菜菜的sklearn学习.md",
     "ai/pic/model.png",
-    "linux/linux 追踪工具之bpftrace.md",
-    "dcie tool分析.md",
     "ai/sklearn/pic/shuji.png",
     "ai/sklearn/pic",
     "ai/sklearn",
-    "linux/收藏.md",
-    "pytorch/pySimpleGUI.md",
-    "linux/linux动态库加载.md",
     "linux/pic/dl2.png",
     "linux/pic/dl1.png",
     "linux/pic/dl3.png",
     "linux/pic/dl4.png",
-    "linux/acpi table dump.md",
     "linux/pic/acpi table.png",
     "linux/pic/acpi_table.png",
     "linux/pic/debug_tool.png",
-    "linux/libtracefs库源码分析.md",
     "linux/pic",
-    "rust/简单学习rust中文版.md",
     "数学",
     "linux/yocto",
-    "rust",
-    "ai/pic",
-    "ai"
+    "rust"
   ]
 }
