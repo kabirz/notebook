@@ -1,0 +1,9 @@
+
+如code
+```rust
+fn main() {                                                                                                                                                                                       let mut vec_16 = vec![0_u16; 10];                                                                                                                                                             let arr = vec_16.as_mut_slice();                                                                                                                                                              for i in 0..arr.len() {                                                                                                                                                                           arr[i] = i as u16;                                                                                                                                                                        }                                                                                                                                                                                                                                                                                                                                                                                           println!("{:?}\n{:?}", arr, arr.to_vec());                                                                                                                                                }
+```
+output:
+```
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                                                                                                                                                                [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
