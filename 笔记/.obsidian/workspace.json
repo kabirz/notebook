@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/重写rust第5天(6-02).md",
+                "file": "cmake/cmake获取所有的target的方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433b82b764fe5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/重学rust第10天(06-14).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cxl",
+                "query": "acpi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust/重写rust第5天(6-02).md",
+                "file": "rust/重学rust第10天(06-14).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust/重写rust第5天(6-02).md",
+                "file": "rust/重学rust第10天(06-14).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust/重写rust第5天(6-02).md"
+                "file": "rust/重学rust第10天(06-14).md"
               }
             }
           },
@@ -234,15 +246,33 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1a1bffb29f9b6cc4",
+  "active": "a44b2e94c33e8db7",
   "lastOpenFiles": [
-    "rust/重写rust第5天(6-02).md",
-    "rust/重学rust第4天(6-01).md",
-    "rust/重学rust第1天(5-29).md",
-    "rust/重学rust第3天(5-31).md",
+    "rust/stm32f1xx/依赖库分析.md",
+    "rust/重学rust第10天(06-14).md",
+    "linux/acpi table dump.md",
+    "rust/stm32f1xx",
+    "obsidian基本操作/obsidian快捷操作.md",
+    "kernel/笔记1(pcie_调度）.md",
+    "kernel/x86通过acpi注册硬件设备流程.md",
+    "kernel/pcie.md",
+    "linux/linux下硬件信息查看.md",
+    "cmake/cmake获取所有变量并打印和保存到文件.md",
+    "cmake/cmake获取所有的target的方法.md",
+    "rust/重学rust第09天(06-08).md",
+    "cmake",
+    "rust/重学rust第01天(05-29).md",
+    "rust/重学rust第07天(06-06).md",
+    "rust/重学rust第08天(06-07).md",
+    "rust/重学rust第05天(06-02).md",
+    "rust/重学rust第06天(06-05).md",
+    "rust/重学rust第03天(05-31).md",
+    "rust/重学rust第04天(06-01).md",
+    "rust/重学rust第02天(05-30).md",
     "rust/重学rust第0天.md",
-    "rust/重学rust第2天(5-30).md",
     "rust/收藏.md",
+    "rust/pic/rust_arc.png",
+    "linux/tmux快捷键.md",
     "rust/简单学习rust中文版.md",
     "rust/pic/cfg.png",
     "rust/简单学习rust英文版.md",
@@ -254,21 +284,6 @@
     "kernel/树莓派.md",
     "rust/重学rust第一天(5/29",
     "rust/重学rust第一天(5",
-    "kernel/收藏.md",
-    "kernel/未命名.md",
-    "kernel/driver_base/kset和kobject/kset_kobject.md",
-    "kernel/cxl/收藏.md",
-    "kernel/driver_base/kset和kobject/kobject_uevent.md",
-    "kernel/gpio/gpio设备树的用法之gpiod.md",
-    "kernel/内核网络协议栈.md",
-    "kernel/linux内核专辑.md",
-    "kernel/4. Linux cxl分析.md",
-    "kernel/笔记1(pcie_调度）.md",
-    "linux/收藏.md",
-    "linux/yocto/收藏.md",
-    "kernel/pcie.md",
-    "linux/文件读写.md",
-    "通用传输协议.md",
     "kernel/gpio",
     "kernel/cxl",
     "kernel/driver_base/kset和kobject",
@@ -277,10 +292,7 @@
     "ai/pic/model.png",
     "ai/sklearn/pic/shuji.png",
     "ai/sklearn/pic",
-    "ai/sklearn",
     "linux/pic/dl2.png",
-    "linux/pic/dl1.png",
-    "linux/pic/dl3.png",
-    "linux/pic"
+    "linux/pic/dl1.png"
   ]
 }
