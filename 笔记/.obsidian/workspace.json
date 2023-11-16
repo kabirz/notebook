@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6185ad67888bcf28",
+        "id": "a6a5b77110fac530",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4d69d6bc98ced7",
+            "id": "cfa1c2c90ebc192e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "笔记/linux/sed_awk_rename.md",
-                "staged": false,
-                "hash": "bc31bf40e386155ede9a54d1b90acfc978e0a11b"
+                "file": "system/kazam录制的视频无法在Windows播放问题.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acpi",
+                "query": "rsync",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/kazam录制的视频无法在Windows播放问题.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/kazam录制的视频无法在Windows播放问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/kazam录制的视频无法在Windows播放问题.md"
+              }
             }
           },
           {
@@ -217,53 +221,53 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0c6476447a0d5572",
+  "active": "cfa1c2c90ebc192e",
   "lastOpenFiles": [
-    "linux/sed_awk_rename.md",
-    "linux/收藏2.md",
-    "linux/收藏.md",
-    "linux/yocto/收藏.md",
-    "cmake/cmake获取所有的target的方法.md",
-    "日记/2023-07-11.md",
-    "rust/收藏.md",
-    "linux/linux下screen工具.md",
-    "whs/hrcval tools介绍.md",
-    "whs/pic/share_entry.png",
-    "whs/pic/delete_entry.png",
-    "whs/pic/add_entry.png",
-    "neovim/vim学习第一篇change.md",
-    "rust/rust开发的工具推荐.md",
-    "neovim",
-    "rust/重学rust第10天(06-14).md",
-    "rust/stm32f1xx/依赖库分析.md",
-    "linux/acpi table dump.md",
-    "rust/stm32f1xx",
-    "obsidian基本操作/obsidian快捷操作.md",
-    "kernel/笔记1(pcie_调度）.md",
-    "kernel/x86通过acpi注册硬件设备流程.md",
-    "kernel/pcie.md",
-    "linux/linux下硬件信息查看.md",
-    "cmake/cmake获取所有变量并打印和保存到文件.md",
-    "rust/重学rust第09天(06-08).md",
-    "cmake",
-    "rust/重学rust第01天(05-29).md",
-    "rust/重学rust第07天(06-06).md",
-    "rust/重学rust第08天(06-07).md",
-    "rust/重学rust第05天(06-02).md",
-    "rust/重学rust第06天(06-05).md",
-    "rust/pic/rust_arc.png",
-    "rust/pic/cfg.png",
-    "rust/pic/Pasted image 20230529160509.png",
-    "rust/pic/Pasted image 20230529160319.png",
-    "rust/pic/dev_depeds.png",
-    "rust/pic",
-    "rust/重学rust第一天(5/29",
-    "rust/重学rust第一天(5",
-    "kernel/gpio",
-    "kernel/cxl",
-    "kernel/driver_base/kset和kobject",
-    "kernel/driver_base",
-    "ai/pic/inv.png",
-    "ai/pic/model.png"
+    "xmake/xmake编译cmake项目.md",
+    "jianan/README.md",
+    "jianan/images/mailbox/130601_dsp_load.png",
+    "kernel/收藏.md",
+    "jianan/K510_CRB_V1.2_Hardware_Guide.md",
+    "jianan/sed9vsvym",
+    "system/pic/ubuntu下录屏.md",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/data/bus_out.jpg",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/data/bus.jpg",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/yolov5_image.py",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/box_utils.py",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/data",
+    "jianan/utils/AI_Application/aidemo_sdk/scripts/sim_yolov5s_320_with_sigmoid_bf16_with_preprocess_output_nhwc.py",
+    "jianan/utils/AI_Application/aidemo_sdk/scripts/gen_yolov5s_320_with_sigmoid_bf16_with_preprocess_output_nhwc.py",
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC",
+    "jianan/utils/AI_Application/aidemo_sdk/models/onnx",
+    "jianan/utils/AI_Application/aidemo_sdk/models/kmodel",
+    "jianan/utils/AI_Application/aidemo_sdk/scripts",
+    "jianan/images/uboot_guides/build_out.png",
+    "jianan/images/system_memory_map/k510-system-memory-map.png",
+    "jianan/images/sdk_guides/sdk_win32disk.png",
+    "jianan/images/sdk_guides/sdk_nfsboot3.png",
+    "jianan/images/sdk_guides/sdk_version.png",
+    "jianan/images/sdk_guides/sdk_nfsboot2.png",
+    "jianan/images/sdk_guides/sdk_nfsboot1.png",
+    "jianan/K510_V4l2_Developer_Guides.md",
+    "jianan/K510_V4l2_Sensor_Developer_Guides.md",
+    "jianan/K510_U-Boot_Developer_Guides.md",
+    "jianan/K510_System_memory_map.md",
+    "jianan/K510_SDK_DSP_CORE_Guide.md",
+    "jianan/K510_SDK_Build_and_Burn_Guide.md",
+    "jianan/K510_nncase_Developer_Guides.md",
+    "jianan/K510_Multimedia_Developer_Guides.md",
+    "jianan/K510_SDK_Application_Guides.md",
+    "jianan/K510_Mailbox_Developer_Guides.md",
+    "jianan/K510_Linux_Kernel_Driver_Developer_Guides.md",
+    "jianan/K510_ISP_Tuning_Tool_Guides.md",
+    "jianan/K510_ISP_User_Property_Page_Guides.md",
+    "jianan/K510_ISP_Adaptive_Tuning_Guides.md",
+    "jianan/K510_Drm_Developer_Guides.md",
+    "jianan/K510_AI_Application_Guides.md",
+    "system/kazam录制的视频无法在Windows播放问题.md",
+    "ai/OD.md",
+    "ai/线性代数.md",
+    "ai/sklearn/菜菜的sklearn学习.md",
+    "ai/模型可视化.md"
   ]
 }
