@@ -1,0 +1,6 @@
+[The Linux Kernel Module Programming Guide (sysprog21.github.io)](https://sysprog21.github.io/lkmpg/)
+[Learning operating system development using Linux kernel and Raspberry Pi (github.com)](https://github.com/s-matyukevich/raspberry-pi-os)
+[Introduction · Linux Inside (gitbooks.io)](https://0xax.gitbooks.io/linux-insides/content/)
+[MintCN/linux-insides-zh: Linux 内核揭秘 (github.com)](https://github.com/MintCN/linux-insides-zh)
+[Low-Level Programming University (github.com)](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_cn.md)
+[linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频 (github.com)](https://github.com/0voice/linux_kernel_wiki)

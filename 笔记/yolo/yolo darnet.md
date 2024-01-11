@@ -1,0 +1,2 @@
+[dog-qiuqiu/Yolo-FastestV2: :zap: Based on Yolo's low-power, ultra-lightweight universal target detection algorithm, the parameter is only 250k, and the speed of the smart phone mobile terminal can reach ~300fps+ (github.com)](https://github.com/dog-qiuqiu/Yolo-FastestV2)
+[dog-qiuqiu/MobileNet-Yolo: MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire: (github.com)](https://github.com/dog-qiuqiu/MobileNet-Yolo)
