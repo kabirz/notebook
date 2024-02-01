@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a5b77110fac530",
+        "id": "9716542552ea85ab",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa1c2c90ebc192e",
+            "id": "a5c003f739a39290",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "笔记/linux/pic/Pasted image 20231211103534.png",
-                "staged": false
+                "file": "python/文本分割1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,44 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hw",
+                "query": "qemu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "20ad5620b6990998",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed6b08d8d7f48341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian基本操作/obsidian快捷操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3223eda6d756739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian基本操作/obsidian快捷操作.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -105,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -125,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python/文本分割1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python/文本分割1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python/文本分割1.md"
+              }
             }
           },
           {
@@ -198,11 +171,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 663.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,53 +189,54 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cfa1c2c90ebc192e",
+  "active": "a5c003f739a39290",
   "lastOpenFiles": [
-    "linux/linux下硬件信息查看.md",
-    "日记/2024-01-10.md",
-    "日记/2024-01-11.md",
+    "python/文档加载1.md",
+    "python/文本分割1.md",
+    "python/文档加载3(unstructured).md",
+    "python/文档加载2(markdown).md",
+    "linux/容器-podman.md",
+    "python web/网络连接的工具.md",
+    "日记/2023-04-19.md",
+    "linux/ci.md",
+    "linux/dbus.md",
+    "kernel_net/问答.md",
+    "python web/socket 编程.md",
+    "kernel_net",
+    "python web/mqtt学习.md",
     "python web/fastapi.md",
-    "python web/streamlit常用插件.md",
+    "python web/c IP相关操作.md",
+    "python web/pic/net.png",
     "python web/常用前端框架.md",
-    "python web/sqlite操作.md",
-    "python/poetry.md",
-    "yolo/web camera.md",
-    "python web",
-    "ai/langchain.md",
-    "pytorch/Torchvison.md",
-    "ai/打印模型参数.md",
-    "yolo/darknet.md",
-    "yolo/face数据集.md",
-    "ai/face.md",
-    "ai/libiomp5md报错问题解决.md",
-    "linux/文件读写.md",
-    "obsidian基本操作/obsidian快捷操作.md",
-    "linux/收藏2.md",
-    "linux/收藏.md",
-    "linux/命令行工具介绍.md",
-    "linux/tmux快捷键.md",
-    "linux/rootfs.md",
+    "python web/tcp/udp.md",
+    "python web/tcp",
+    "python web/pic/beginners-guide-to-the-mqtt-protocol.pdf",
+    "python web/pic",
+    "volume权限问题.md",
+    "docker",
+    "docker.md",
+    "ai/huggingface国内镜像的使用.md",
     "ai/OD.md",
-    "ai/opencv.md",
-    "ai/sklearn/pic/shuji.png",
-    "ai/代码自动补全插件介绍.md",
+    "ai/LLM相关.md",
+    "ai/libiomp5md报错问题解决.md",
+    "ai/langchain.md",
+    "ai/face.md",
+    "ai/BP神经网络.md",
     "ai/pic/model.png",
     "ai/pic/mm2.png",
     "ai/pic/mm.png",
+    "未命名.canvas",
+    "日记/2023-04-03.md",
+    "python web",
+    "ai/sklearn/pic/shuji.png",
     "ai/pic/inv.png",
     "linux/pic/Pasted image 20231211104407.png",
     "linux/pic/Pasted image 20231211104342.png",
     "linux/pic/Pasted image 20231211104308.png",
     "linux/pic/Pasted image 20231211104112.png",
-    "linux/pic/Pasted image 20231211104045.png",
     "yolo",
     "jianan/sed9vsvym",
     "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/yolov5_image.py",
-    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/box_utils.py",
-    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/data",
-    "jianan/utils/AI_Application/aidemo_sdk/scripts/sim_yolov5s_320_with_sigmoid_bf16_with_preprocess_output_nhwc.py",
-    "jianan/utils/AI_Application/aidemo_sdk/scripts/gen_yolov5s_320_with_sigmoid_bf16_with_preprocess_output_nhwc.py",
-    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC",
-    "jianan/utils/AI_Application/aidemo_sdk/models/onnx"
+    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/box_utils.py"
   ]
 }
