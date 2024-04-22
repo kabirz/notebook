@@ -4,16 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "9716542552ea85ab",
+        "id": "c47a283dd5a4272d",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c003f739a39290",
+            "id": "173444a1f2da641d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "笔记/kernel/0. Linux设备驱动.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "1d9c19698f7b7f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/文本分割1.md",
+                "file": "github/github项目收藏.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,23 +69,23 @@
             }
           },
           {
-            "id": "ed4e5e9e6c2f74ab",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "ee58453cbe860c7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f7a55125c73635be",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/文本分割1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/文本分割1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python/文本分割1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,13 +176,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2516937298f4655a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 605.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,57 +201,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "media-extended:Open media": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "a5c003f739a39290",
+  "active": "173444a1f2da641d",
   "lastOpenFiles": [
-    "python/文档加载1.md",
-    "python/文本分割1.md",
-    "python/文档加载3(unstructured).md",
-    "python/文档加载2(markdown).md",
-    "linux/容器-podman.md",
-    "python web/网络连接的工具.md",
-    "日记/2023-04-19.md",
-    "linux/ci.md",
-    "linux/dbus.md",
-    "kernel_net/问答.md",
-    "python web/socket 编程.md",
+    "yolo/darknet.md",
+    "yolo/yolo darnet.md",
+    "yolo/web camera.md",
+    "openvino/openvino插件的加载过程分析.md",
+    "linux/bash zsh命令行中感叹号的用法.md",
+    "openvino",
+    "ai/tranformers模型参数详解.md",
+    "ai/key.md",
+    "ai/设置CUDA_VISIBLE_DEVICES不生效解决方法.md",
+    "ai/intel+arc.md",
+    "ai/llm+openvino.md",
+    "ai/metagpt.md",
+    "kernel_net/协议栈博客.md",
+    "kernel_net/网卡.md",
+    "kernel_net/udp调用过程.md",
+    "github/github项目收藏.md",
+    "kernel/笔记1(pcie_调度）.md",
+    "kernel/树莓派.md",
+    "kernel/收藏.md",
+    "kernel/内核网络协议栈.md",
+    "kernel/x86通过acpi注册硬件设备流程.md",
+    "kernel/watchdog.md",
+    "kernel/pcie.md",
+    "kernel/linux内核内存分配.md",
+    "kernel/linux内核专辑.md",
+    "kernel/linux 内核之书.md",
+    "kernel/linux mailbox.md",
+    "ai/aigc/pic/Pasted image 20240221135515.png",
+    "ai/aigc/pic/Pasted image 20240221135226.png",
+    "ai/aigc/pic",
+    "ai/aigc",
+    "langchain/ethernet测试工具_tmp.html",
+    "langchain/pic/Pasted image 20240205132211.png",
+    "langchain/pic",
+    "langchain/ethernet测试工具.pdf",
+    "langchain",
+    "ai/pic/Pasted image 20240203135550.png",
+    "日记/pic/Pasted image 20240203083033.png",
+    "日记/pic/Pasted image 20240203082437.png",
+    "日记/pic/Pasted image 20240203082317.png",
+    "日记/pic",
     "kernel_net",
-    "python web/mqtt学习.md",
-    "python web/fastapi.md",
-    "python web/c IP相关操作.md",
     "python web/pic/net.png",
-    "python web/常用前端框架.md",
-    "python web/tcp/udp.md",
     "python web/tcp",
-    "python web/pic/beginners-guide-to-the-mqtt-protocol.pdf",
-    "python web/pic",
-    "volume权限问题.md",
-    "docker",
-    "docker.md",
-    "ai/huggingface国内镜像的使用.md",
-    "ai/OD.md",
-    "ai/LLM相关.md",
-    "ai/libiomp5md报错问题解决.md",
-    "ai/langchain.md",
-    "ai/face.md",
-    "ai/BP神经网络.md",
     "ai/pic/model.png",
     "ai/pic/mm2.png",
-    "ai/pic/mm.png",
-    "未命名.canvas",
-    "日记/2023-04-03.md",
-    "python web",
-    "ai/sklearn/pic/shuji.png",
-    "ai/pic/inv.png",
-    "linux/pic/Pasted image 20231211104407.png",
-    "linux/pic/Pasted image 20231211104342.png",
-    "linux/pic/Pasted image 20231211104308.png",
-    "linux/pic/Pasted image 20231211104112.png",
-    "yolo",
-    "jianan/sed9vsvym",
-    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/yolov5_image.py",
-    "jianan/utils/AI_Application/aidemo_sdk/examples/python_inference_on_PC/box_utils.py"
+    "未命名.canvas"
   ]
 }

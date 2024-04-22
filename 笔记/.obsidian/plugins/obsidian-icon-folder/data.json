@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "twemoji",
@@ -19,7 +19,17 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
   },
   "linux/rootfs.md": "💾",
   "linux": "FabLinux",
