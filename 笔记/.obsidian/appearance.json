@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "system",
   "cssTheme": "80s Neon",
-  "baseFontSize": 14
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

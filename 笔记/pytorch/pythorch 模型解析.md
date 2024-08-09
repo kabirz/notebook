@@ -1,0 +1,5 @@
+[【Pytorch】一文详细介绍 pth格式 文件_pth文件-CSDN博客](https://blog.csdn.net/qq_41813454/article/details/136930806)
+[PyTorch | 保存和加载模型 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82038049)
+[Pytorch保存和加载模型(load和load_state_dict)_pytorch load-CSDN博客](https://blog.csdn.net/leviopku/article/details/123925804)
+[模型相关.pt和.bin文件在PyTorch中的用途以及存储和加载方式_torch.load可以加载bin文件吗-CSDN博客](https://blog.csdn.net/baoyan2015/article/details/135970191)
+[Pytorch格式 .pt .pth .bin .onnx 详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/620688513)

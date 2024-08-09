@@ -1,0 +1,6 @@
+[run27017/vue-chat: 一个开箱即用的 vue 聊天组件，简单、易用，代码清晰 (github.com)](https://github.com/run27017/vue-chat)
+[前端UI框架汇总-CSDN博客](https://blog.csdn.net/chyuanrufeng/article/details/104359284)
+[daisyUI](https://daisyui.com/)
+[MyUI 4.x (vtj.pro)](http://myui.vtj.pro/my/)
+[vue-advanced-chat-sandbox/package.json at main · advanced-chat/vue-advanced-chat-sandbox (github.com)](https://github.com/advanced-chat/vue-advanced-chat-sandbox/blob/main/package.json)
+[vue-advanced-chat使用指南（socket.io+node+vue实现聊天）-CSDN博客](https://blog.csdn.net/beekim/article/details/134176752)
