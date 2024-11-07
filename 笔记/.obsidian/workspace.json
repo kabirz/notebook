@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/web前端UI框架.md",
+                "file": "web/electron设置代理下载.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "electron设置代理下载"
+            }
+          },
+          {
+            "id": "959eabaa101a8deb",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "笔记/.obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -48,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#mysql",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -70,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
-              "state": {}
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ],
@@ -94,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/web前端UI框架.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -111,10 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/web前端UI框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -125,7 +151,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,9 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "web/web前端UI框架.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -143,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -151,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -159,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -167,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -177,7 +213,9 @@
               "type": "chat-view",
               "state": {
                 "file": "Chats/New Chat.md"
-              }
+              },
+              "icon": "message-square",
+              "title": "New Chat"
             }
           },
           {
@@ -185,7 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -193,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 602.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,46 +250,46 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0c6476447a0d5572",
+  "active": "959eabaa101a8deb",
   "lastOpenFiles": [
-    "python/python ui.md",
+    "kernel_net/固定ip不同网段设备互联通信.md",
+    "kernel_net/zephyr net子系统分析之posix.md",
+    "bsp/bsp编译参数介绍.md",
+    "vscode/vscode 插件推荐.md",
+    "bsp/webserial.md",
+    "vscode",
+    "bsp/stm32开发板资源.md",
+    "linux/C语言运算符优先级.md",
+    "bsp/modbus.md",
+    "数据库/ubuntu安装和使用mysql数据库.md",
+    "linux/数据库.md",
+    "cmake/cmake设置属性的用法.md",
+    "copilot-conversations/Chat-2024_09_12-11_50_13.md",
+    "bsp/网络.md",
+    "bsp/stm32的寄存器信息.md",
+    "bsp/uart--i2c--spi.md",
+    "web/electron设置代理下载.md",
+    "bsp/串口/i2c",
+    "bsp/串口",
+    "bsp",
+    "web/electron学习资料.md",
+    "linux/git相关使用.md",
+    "linux/ci.md",
+    "web/node.md",
+    "python/miniforge搭建虚拟环境.md",
+    "web/html打开camera.md",
     "web/web前端UI框架.md",
+    "python/python ui.md",
     "copilot-conversations/Chat-2024_08_08-17_04_47.md",
     "web/前端工具-node.md",
     "copilot-conversations",
-    "kernel_net/vscode的端口转发.md",
-    "linux/linux设置能力.md",
-    "web/前端语言学习.md",
-    "linux/数据库.md",
-    "linux/容器-podman.md",
-    "web/node.md",
-    "Chats/New Chat.md",
-    "linux/sed.md",
-    "ai/graphrag.md",
-    "ai/graphrag 1.md",
-    "kernel/内核网络协议栈.md",
-    "ai/rerank.md",
-    "ai/huggingface国内镜像的使用.md",
-    "web/http api测试工具合集.md",
-    "ai/李沐AI学习.md",
-    "python/miniforge搭建虚拟环境.md",
     "web",
-    "linux/podman的安装和使用.md",
-    "数据库/ubuntu安装和使用mysql数据库.md",
-    "huggingface_model/量化.md",
     "数据库",
-    "bootloader/uboot的FIT.md",
     "bootloader",
-    "linux/yocto/收藏.md",
-    "huggingface_model/tranformer原理.md",
     "huggingface_model",
     "key",
-    "Chats",
-    "openvino",
     "ai/aigc/pic/Pasted image 20240221135515.png",
     "ai/aigc/pic/Pasted image 20240221135226.png",
-    "ai/aigc/pic",
-    "ai/aigc",
     "langchain/pic/Pasted image 20240205132211.png",
     "ai/pic/Pasted image 20240203135550.png",
     "日记/pic/Pasted image 20240203083033.png",
